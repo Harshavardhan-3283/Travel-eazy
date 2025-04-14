@@ -1,0 +1,67 @@
+/* Add this CSS to your styles (e.g., App.css) */
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-body ul {
+  padding-left: 20px;
+}
+
+.card-body ul li {
+  font-size: 1rem;
+  color: #333;
+}
+
+.card-body button {
+  background-color: #fff;
+  width: 100%;
+  border: none;
+  padding: 10px;
+  color: white;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs{
+  color: #007bff;
+  background-color: none;
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.card-text {
+  color: #757575;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.nav-tabs .nav-link.active {
+  color: #0050a5;
+  background-color: none;
+  border-color: #dee2e6 #dee2e6 #fff;
+  border: none;
+  font-weight: 600;
+}
+
+.nav-tabs .nav-link:hover {
+  isolation: isolate;
+  border-color: transparent;
+}
+
+.nav-item{
+  padding: 0px 10px;
+}

@@ -1,0 +1,8 @@
+img{
+  height: 250px ;
+}
+.total-cost {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: right;
+}

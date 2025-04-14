@@ -1,0 +1,13 @@
+com\example\api\travelapi\model\Restaurant.class
+com\example\api\travelapi\repository\TripRepository.class
+com\example\api\travelapi\repository\RestaurantRepository.class
+com\example\api\travelapi\TravelapiApplication.class
+com\example\api\travelapi\repository\MySqlRepository.class
+com\example\api\travelapi\model\User.class
+com\example\api\travelapi\controller\UserDetails.class
+com\example\api\travelapi\model\Trip.class
+com\example\api\travelapi\repository\TransportRepository.class
+com\example\api\travelapi\model\Hotel.class
+com\example\api\travelapi\repository\HotelRepository.class
+com\example\api\travelapi\WebConfig.class
+com\example\api\travelapi\model\Transport.class
